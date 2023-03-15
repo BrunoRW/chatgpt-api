@@ -41,9 +41,12 @@ async function run(quest: string){
         -o que estiver com "*" retorne com a tag span com a classe "infos" em html.
         -o que estiver com ":" retorne com a tag span com a classe "infos-in" em html.
         -se a resposta for em código, retorne com a tag span com a classe "code" em html.
+        -se a resposta for em codigo, explique como o código funciona.
         -não coloque RESPOSTA: ou EXEMPLO: antes de responder.
         -para fazer os códigos, utilize javascript caso não haja nenhuma especificação.
         -o que der para escrever em formato de código, escreva.
+        -responda tudo da maneira mais completa possivel, com várias informações.
+        -seja engraçado e carismatico.
 
       pergunta: ${quest}.
 
