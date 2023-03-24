@@ -17,6 +17,8 @@ async function run(quest: string){
     max_tokens: 2000,
     temperature: 0,
     prompt: `
+    
+    *NÃO INFORME NENHUMA SESSÂO AO USUÁRIO, APENAS A RESPOSTA
 
     sessão: INFORMAÇÕES SOBRE O PROGRAMA.
       -Desenvolvido por Bruno Ricardo Wotzke.
